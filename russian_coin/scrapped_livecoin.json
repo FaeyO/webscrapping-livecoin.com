@@ -1,0 +1,202 @@
+[
+    {
+        "pair": "BTC/RUR",
+        "volume": "11 664 872.72 RUR",
+        "last_price": "544 613.49000 RUR",
+        "change": "6.59%",
+        "high": "566 499.99682 RUR",
+        "low": "504 095.17867 RUR"
+    },
+    {
+        "pair": "ETH/RUR",
+        "volume": "1 520 135.17 RUR",
+        "last_price": "10 000.00111 RUR",
+        "change": "4.16%",
+        "high": "11 994.958 RUR",
+        "low": "9 047.33625 RUR"
+    },
+    {
+        "pair": "USD/RUR",
+        "volume": "442 421.57 RUR",
+        "last_price": "61.98692 RUR",
+        "change": "3.67%",
+        "high": "62.58 RUR",
+        "low": "59.09407 RUR"
+    },
+    {
+        "pair": "PZM/RUR",
+        "volume": "340 034.39 RUR",
+        "last_price": "15.20000 RUR",
+        "change": "1.33%",
+        "high": "15.5 RUR",
+        "low": "14.81 RUR"
+    },
+    {
+        "pair": "XRP/RUR",
+        "volume": "24 441.36 RUR",
+        "last_price": "14.04652 RUR",
+        "change": "-5.26%",
+        "high": "15.43857 RUR",
+        "low": "12.7702 RUR"
+    },
+    {
+        "pair": "EL/RUR",
+        "volume": "5 534.47 RUR",
+        "last_price": "0.30898 RUR",
+        "change": "0.61%",
+        "high": "0.31387 RUR",
+        "low": "0.29558 RUR"
+    },
+    {
+        "pair": "YOC/RUR",
+        "volume": "3 786.09 RUR",
+        "last_price": "0.03800 RUR",
+        "change": "1.31%",
+        "high": "0.04 RUR",
+        "low": "0.03301 RUR"
+    },
+    {
+        "pair": "MSCN/RUR",
+        "volume": "1 492.82 RUR",
+        "last_price": "0.00990 RUR",
+        "change": "-5.71%",
+        "high": "0.01052 RUR",
+        "low": "0.0091 RUR"
+    },
+    {
+        "pair": "KICK/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "0.02601 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "ITI/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "77.00000 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "LEO/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "0.30000 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "SIB/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "1.50000 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "BCH/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "13 591.43977 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "HB/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "0.49999 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "PIVX/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "19.00000 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "THS/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "0.26000 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "EMC/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "6.99999 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "AMB/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "1.25000 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "RLT/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "0.02449 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "BIO/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "0.04490 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "KRB/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "3.49500 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "ITCM/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "22.00000 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "DGB/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "0.30001 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    },
+    {
+        "pair": "DIME/RUR",
+        "volume": "47 929.25 RUR",
+        "last_price": "0.00010 RUR",
+        "change": "0%",
+        "high": "0.00011 RUR",
+        "low": "0.0001 RUR"
+    },
+    {
+        "pair": "PUT/RUR",
+        "volume": "0.00 RUR",
+        "last_price": "0.00565 RUR",
+        "change": "0%",
+        "high": "0 RUR",
+        "low": "0 RUR"
+    }
+]
